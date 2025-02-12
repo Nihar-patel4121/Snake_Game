@@ -135,6 +135,18 @@ This game is more than just a project; it’s a testament to our teamwork, perse
 🎯 The goal? **Eat more fruits and survive longer!**  
 - ✅ Storing high scores using file handling 📁
 
+## ✨ Unique Features
+
+Level System 🏆: The game speeds up every 5 fruits eaten, increasing the challenge.
+
+Obstacles 🚧: Random obstacles spawn as the level increases, making movement more strategic.
+
+Performance Rating 📊: At the end of each game, players receive a rating based on their performance.
+
+Cross-Platform Compatibility 🖥️: Works on both Windows and Linux without requiring additional graphics libraries.
+
+Smooth Gameplay 🎮: Utilizes efficient console cursor manipulation for a seamless experience.
+
 ### ⭐ Contributions & Feedback
 If you have suggestions or want to contribute to the project, feel free to create a pull request or open an issue on GitHub! 🚀
 
