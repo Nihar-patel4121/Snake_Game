@@ -69,10 +69,6 @@ This is a classic Snake Game with a modern twist 🔹🎮, implemented in C++. I
 
 ## 🚀 How to Run
 
-### 📌 Compile the code using a C++ compiler:
-```sh
-g++ snake_game.cpp -o snake_game
-
 ## 👥 Team - Bug Busters 🏆
 This project was developed by Bug Busters, a passionate and dedicated team from Dhirubhai Ambani University (DAU). From conceptualization to execution, we poured our efforts into designing an immersive and challenging Snake Game that goes beyond the classic version by introducing obstacles, levels, and a performance rating system.
 
@@ -97,5 +93,11 @@ This game is more than just a project; it’s a testament to our teamwork, perse
 If you have suggestions or want to contribute to the project, feel free to create a pull request or open an issue on GitHub! 🚀
 
 📌 Star the repository if you like our work! ⭐
+
+
+### 📌 Compile the code using a C++ compiler:
+```sh
+g++ snake_game.cpp -o snake_game
+
 
 
