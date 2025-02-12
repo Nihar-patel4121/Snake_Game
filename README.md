@@ -79,15 +79,15 @@ Throughout this project, we encountered numerous challenges—from handling comp
 This game is more than just a project; it’s a testament to our teamwork, perseverance, and passion for coding. We hope you enjoy playing it as much as we enjoyed building it! 🚀🐍🎮
 
 ## 👨‍💻 Team Members:
--📌 Nihar Patel - 202401148
--📌 Raj Patel - 202401153
--📌 Praneel Sharma - 202401166
--📌 Pranshu Patel - 202401167
+- 📌 Nihar Patel - 202401148
+- 📌 Raj Patel - 202401153
+- 📌 Praneel Sharma - 202401166
+- 📌 Pranshu Patel - 202401167
 
 ### 🔮 Future Enhancements
--✅ Adding a graphical interface using SFML or SDL 🎨
--✅ Implementing multiplayer support 👥
--✅ Storing high scores using file handling 📁
+- ✅ Adding a graphical interface using SFML or SDL 🎨
+- ✅ Implementing multiplayer support 👥
+- ✅ Storing high scores using file handling 📁
 
 ### ⭐ Contributions & Feedback
 If you have suggestions or want to contribute to the project, feel free to create a pull request or open an issue on GitHub! 🚀
