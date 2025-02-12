@@ -46,9 +46,27 @@ This document provides an overview of the functions used in the Snake game, expl
 ✅ Score system based on the number of fruits collected.  
 ✅ A rating system evaluates the player's performance.  
 
-### 🎮 Game Controls
-➡ Arrow keys (or WASD) for movement  
-⏸ Pause and Resume functionality  
+## 🎮 Game Controls  
+
+Take full control of your **snake** using the following keys:  
+
+| 🕹️ **Key** | 🎯 **Action** |
+|------------|-------------|
+| 🔼 **W**   | Move **Up** ⬆️ |
+| ◀️ **A**   | Move **Left** ⬅️ |
+| 🔽 **S**   | Move **Down** ⬇️ |
+| ▶️ **D**   | Move **Right** ➡️ |
+| ⏸ **P**   | **Pause** the game ⏯ |
+| ▶ **J**   | **Resume** the game 🎮 |
+| 🔄 **X**   | **Restart** the game ♻️ |
+| 🍏 **F**   | **Eat Fruit** (Gain +10 Points) 🍎 |
+| 🚧 **X**   | **Obstacles** (Avoid them!) 🧱 |
+
+### 🏆 Score & Level  
+- **Score:** Displays the current points earned.  
+- **Level:** Increases as you progress, making the game harder.  
+
+Master these controls and aim for the highest score! 🚀🐍  
 
 ### 🖥 Optimized for Console Execution
 ✅ Designed for Online GDB and standard C++ compilers.  
