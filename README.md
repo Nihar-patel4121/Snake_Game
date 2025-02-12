@@ -111,7 +111,10 @@ This game is more than just a project; it’s a testament to our teamwork, perse
 
 ### 🔮 Future Enhancements
 - ✅ Adding a graphical interface using SFML or SDL 🎨
-- ✅ Implementing multiplayer support 👥
+- 🏆 **Dual Game Mode: Snake Battle!** 🏆  
+🔥 Two snakes are competing side by side in **real-time**!  
+🐍 **Snake A** vs. 🐍 **Snake B**  
+🎯 The goal? **Eat more fruits and survive longer!**  
 - ✅ Storing high scores using file handling 📁
 
 ### ⭐ Contributions & Feedback
