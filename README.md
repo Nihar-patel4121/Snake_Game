@@ -5,26 +5,27 @@
 This is a classic Snake Game with a modern twist 🔹🎮, implemented in C++. It features obstacles, levels, and a performance rating system ⭐, making the gameplay progressively challenging as the player advances.
 
 ---
-## Function Overview
+## Function Overview  
 
-### Description
-This document provides an overview of the functions used in the Snake game, explaining their purpose and role in the game.
+### 📜 Description  
+This document provides an overview of the functions used in the Snake game, explaining their purpose and role in the game.  
 
-### Function Table
+### 🎮 Function Table  
 
-| Function Name      | Description |
-|-------------------|-------------|
-| `initializeGrid()` | Sets up the game grid, placing the snake, fruit, and obstacles initially. |
-| `drawGrid()` | Renders the grid, displaying the snake, fruit, obstacles, and game elements on the screen. |
-| `spawnFruit()` | Places a fruit at a random unoccupied position in the grid. |
-| `spawnObstacles()` | Randomly generates obstacles as the game progresses to increase difficulty. |
-| `moveSnake()` | Handles the movement of the snake based on user input and checks for collisions. |
-| `checkCollision()` | Detects if the snake collides with the wall, itself, or obstacles and ends the game if necessary. |
-| `eatFruit()` | Increases the snake's length and score when it eats a fruit and spawns a new fruit. |
-| `increaseLevel()` | Adjusts game difficulty by increasing the speed and adding obstacles every 5 fruits. |
-| `gameOver()` | Displays the game-over screen and resets necessary game variables. |
-| `handleInput()` | Captures user input to change the snake's direction. |
-| `updateGameState()` | Manages the main game loop, updating positions and checking win/loss conditions. |
+| 🔹 **Function Name**     | ✨ **Description** |
+|-------------------------|------------------|
+| 🎲 `initializeGrid()`   | 🏗️ Sets up the game grid, placing the snake, fruit, and obstacles initially. |
+| 🎨 `drawGrid()`         | 🖥️ Renders the grid, displaying the 🐍 snake, 🍎 fruit, 🧱 obstacles, and game elements. |
+| 🍏 `spawnFruit()`       | 🌱 Places a 🍎 fruit at a random unoccupied position in the grid. |
+| 🚧 `spawnObstacles()`   | ⛔ Randomly generates 🧱 obstacles as the game progresses to increase difficulty. |
+| 🏃 `moveSnake()`        | ➡️ Handles the movement of the 🐍 snake based on user input and checks for collisions. |
+| ⚠️ `checkCollision()`   | 💥 Detects if the snake collides with the wall, itself, or obstacles and ends the game if necessary. |
+| 🍽️ `eatFruit()`        | 🏆 Increases the snake's length and score when it eats a 🍎 fruit and spawns a new one. |
+| ⏫ `increaseLevel()`    | 🚀 Adjusts game difficulty by increasing speed and adding obstacles every 5 fruits. |
+| ☠️ `gameOver()`        | 🎭 Displays the game-over screen and resets necessary game variables. |
+| 🎮 `handleInput()`      | ⌨️ Captures user input to change the snake's direction. |
+| 🔄 `updateGameState()`  | 🔄 Manages the main game loop, updating positions and checking win/loss conditions. |
+
 
 ## 🌟 Features
 
